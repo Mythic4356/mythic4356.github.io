@@ -1,2 +1,13 @@
-body {
+.parallax {
+  /* The image used */
+  background-image: url("https://media.istockphoto.com/id/1018914230/photo/vertical-view-milky-way-galaxy-night-sky.jpg?s=170667a&w=0&k=20&c=W30_IN2RaTvJDlHXUWBpAzjdaemIVlzbjfkxkpP7PqM=");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
