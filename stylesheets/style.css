@@ -1,0 +1,37 @@
+html{
+    background-color:rgb(30, 30, 30);
+}
+body{
+    margin-left:auto;
+    margin-right: auto;
+    color:white;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p,ul,ol,button{
+    margin-left:75px;
+    margin-right:75px;
+    font-family:"Cascadia Code";
+    font-size:30px;
+}
+ul,ol{
+    list-style-image:url("images/list-image-1.png");
+}
+.buttonhyper:link,.buttonhyper:visited{
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:link,a:visited {
+    color: lime;
+    background-color: transparent;
+    text-decoration: underline;
+}
+button{
+    background-color:green;
+    padding:20px;
+    display: inline;
+}
