@@ -1,3 +1,7 @@
+html{
+    background-color:rgb(0, 48, 52);
+}
 body{
-    background-color:rgb(0, 48, 52)
+    margin:50px;
+    color:white;
 }
