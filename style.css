@@ -1,8 +1,9 @@
 html{
-    background-color:rgb(0, 48, 52);
+    background-color:rgb(24, 24, 24);
 }
 body{
-    margin:50px;
+    margin-left:auto;
+    margin-right: auto;
     color:white;
 }
 .center {
@@ -10,4 +11,9 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+}
+p{
+    margin-left:75px;
+    margin-right:75px;
+    font-family:"Cascadia Code";
+}
