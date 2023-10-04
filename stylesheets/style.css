@@ -11,7 +11,7 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-p,ul,ol,button{
+p,ul,ol,button,iframe{
     margin-left:75px;
     margin-right:75px;
     font-family:"Cascadia Code";
@@ -33,5 +33,12 @@ a:link,a:visited {
 button{
     background-color:rgb(0, 98, 128);
     padding:20px;
-    display: inline;
+    display:inline-block;
+    border:5px solid white
+}
+h1{
+    margin-left:75px;
+    margin-right:75px;
+    font-family:"Cascadia Code";
+    font-size:50px;
 }
