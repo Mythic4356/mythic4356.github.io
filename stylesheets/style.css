@@ -11,7 +11,7 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-p,ul,ol,button,iframe{
+p,ul,ol,button{
     margin-left:75px;
     margin-right:75px;
     font-family:"Cascadia Code";
@@ -41,4 +41,10 @@ h1{
     margin-right:75px;
     font-family:"Cascadia Code";
     font-size:50px;
+}
+iframe{
+    margin-left:75px;
+    margin-right:75px;  
+    font-family:"Cascadia Code";
+    font-size:30px;
 }
