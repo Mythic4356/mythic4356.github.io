@@ -11,7 +11,7 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-p,ul,ol,button{
+p,ul,ol,button,li{
     margin-left:75px;
     margin-right:75px;
     font-family:"Cascadia Code";
